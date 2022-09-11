@@ -1,10 +1,10 @@
 <h3>👋 Hi!</h3> I'm Olivia and I'm a first year student at the University of Colorado Boulder studying computer science!
 
-<h3> ✏ Some facts! </h3>
+<h3> ✏ About Me: </h3>
 <ul>
   <li> I've just started learning C++ and I can't wait to learn more! </li>
   <li> I'm super interesetd in UI/UX design and hoping to work in the game industry. </li>
-  <li> I'm a dog person! </li>
+  <li> Some fun facts: I prefer dogs > cats and tea > coffee! </li>
  </ul>
  
   <h3>Let's connect!</h3>
@@ -16,4 +16,3 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Twitter icon" width="30"/>
   </a>
 </div>
-
